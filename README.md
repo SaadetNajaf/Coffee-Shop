@@ -19,7 +19,7 @@ Welcome to the **Coffee Shop Website**! ☕ A beautifully designed website for c
 
 ✅ **Google Maps Integration** 🗺️: Locate the shop with ease.
 
-## 🔧 Technologies Used  
+## 🛠 Technologies Used  
 
 - **HTML5** 🌐
 - **CSS3** 🎨
