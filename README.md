@@ -6,11 +6,17 @@ Welcome to the **Coffee Shop Website**! ☕ A beautifully designed website for c
 ## ⚙️ Features  
 
 ✅ **Responsive Design** 📱: Works seamlessly on all devices.
+
 ✅ **Smooth Navigation** 🧭: User-friendly interface with clear sections.
+
 ✅ **Menu Showcase** 🍽️: Displays a variety of coffee items with prices.
+
 ✅ **Product Highlights** 🎯: Features top-selling coffee products.
+
 ✅ **Customer Reviews** 🌟: Authentic testimonials from happy customers.
+
 ✅ **Contact Form** 📩: Easily get in touch with the shop.
+
 ✅ **Google Maps Integration** 🗺️: Locate the shop with ease.
 
 ## 🔧 Technologies Used  
